@@ -5,4 +5,4 @@
 ## Alogorithm
 
 ## BackJoon
-4673(SelfNumber)
+4673(셀프 넘버), 1065()
