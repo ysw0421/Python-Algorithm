@@ -25,4 +25,9 @@
 4673(셀프 넘버), 1065(한수), 2448(별 찍기)
 </code></pre>
 ### 카카오 코드 페스티벌
++ 카카오 코드 페스티벌 2018 예선
++ 카카오 코드 페스티벌 2018
 ### 대학교 대회
++ KAIST
++ Stanford Local ACM Programming Contest
++ The MIT Programming Contest
