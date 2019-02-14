@@ -1,5 +1,6 @@
 '''
-
+단어의 개수
+숏코딩:
 a=input().split()
 print(len(a))
 '''
